@@ -4,6 +4,22 @@
     
     <entry>
       <title></title>
+      <url>/2017/04/28/Html-lable/</url>
+      <content type="html"><![CDATA[<h1 id="HTML标签"><a href="#HTML标签" class="headerlink" title="HTML标签"></a>HTML标签</h1><ol>
+<li>&lt;a&gt;表示链接 href后接链接</li>
+<li>&lt;img&gt;表示图片src后接图片</li>
+<li>&lt;br&gt;表示换行</li>
+<li>&lt;hr&gt;表示水平分割线</li>
+<li>&lt;!—这是一行注释—–&gt;</li>
+</ol>
+<p>6.</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title></title>
       <url>/2017/04/27/Welcome%20to%20Shodinger's%20Lab/</url>
       <content type="html"><![CDATA[<h1 id="欢迎来到薛定谔的猫窝"><a href="#欢迎来到薛定谔的猫窝" class="headerlink" title="欢迎来到薛定谔的猫窝"></a>欢迎来到薛定谔的猫窝</h1><h2 id="导语："><a href="#导语：" class="headerlink" title="导语："></a>导语：</h2><blockquote>
 <p>这是薛定谔基于Hexo和Github制作的个人主页，今后将会在这里发布各种原创或转载的东西(｡･∀･)ﾉﾞ</p>
